@@ -23,6 +23,9 @@
     },
     "ReferralCode": {
       "type": "string"
+    },
+    "createdAt": {
+      "type": "date"
     }
   },
   "validations": [],
